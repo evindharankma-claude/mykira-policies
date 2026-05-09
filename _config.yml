@@ -3,7 +3,6 @@ description: Malaysian finance calculators that respect your privacy.
 theme: minima
 url: https://evindharankma-claude.github.io
 baseurl: /mykira-policies
-permalink: pretty
 
 exclude:
   - README.md
