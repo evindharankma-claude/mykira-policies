@@ -1,0 +1,19 @@
+title: MYkira
+description: Malaysian finance calculators that respect your privacy.
+theme: minima
+url: https://evindharankma-claude.github.io
+baseurl: /mykira-policies
+
+minima:
+  skin: classic
+    social_links:
+        - { platform: email,  user_url: "mailto:mykirakiraapp@gmail.com" }
+
+        # Friendly URLs (render .md files as /name/ instead of /name.html)
+        permalink: pretty
+
+        # Don't include these source/admin files in the published site
+        exclude:
+          - README.md
+            - "*.py"
+            
